@@ -1,2 +1,2 @@
-#git-course-test
-Aquest és el meu primer projecte <Toni> <Gutiérrez Jiménez>
+git-course-test
+Aquest és el meu primer projecte <Toni Gutiérrez Jiménez>
