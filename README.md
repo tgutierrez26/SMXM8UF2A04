@@ -1,1 +1,2 @@
-#SMXM8UF2A04
+#git-course-text
+Aquest és el meu primer projecte <Toni> <Gutiérrez Jiménez>
